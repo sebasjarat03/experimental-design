@@ -85,5 +85,38 @@ namespace experiment_design.model
 
             return result;
         }
+
+        public void QuickSort(int[] arr, int low, int high)
+        {
+            if (low < high)
+            {
+                int pivot = Partition(arr, low, high);
+                QuickSort(arr, low, pivot - 1);
+                QuickSort(arr, pivot+1, high);
+            }
+        }
+
+        private int Partition(int[] arr, int low, int high)
+        {
+            int pivot = arr[high];
+            int lowIdx = (low - 1);
+
+            for (int j = low; j < high; j++)
+            {
+                if (arr[j] <= pivot)
+                {
+                    lowIdx++;
+                    int temp = arr[lowIdx];
+                    arr[lowIdx] = arr[j];
+                    arr[j] = temp;
+                }
+            }
+
+            int aux = arr[lowIdx + 1];
+            arr[lowIdx + 1] = arr[high];
+            arr[high] = aux;
+
+            return lowIdx + 1;
+        }
     }
 }
