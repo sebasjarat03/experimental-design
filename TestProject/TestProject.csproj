@@ -42,7 +42,7 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Tests.cs" />
+        <Compile Include="SortingAlgorithmsTest.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>

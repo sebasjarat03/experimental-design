@@ -38,9 +38,7 @@ namespace experiment_design.model
             right = MergeSort(right);
 
             return merge(left, right);
-
-
-
+            
         }
 
         private int[] merge(int[] left, int[] right)
@@ -86,7 +84,12 @@ namespace experiment_design.model
             return result;
         }
 
-        public void QuickSort(int[] arr, int low, int high)
+        public void QuickSort(int[] arr)
+        {
+            QuickSort(arr, 0, arr.Length-1);
+        }
+        
+        private void QuickSort(int[] arr, int low, int high)
         {
             if (low < high)
             {
