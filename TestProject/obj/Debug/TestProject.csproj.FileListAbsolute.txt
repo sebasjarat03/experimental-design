@@ -1,0 +1,11 @@
+E:\RiderProjects\experiment-design\TestProject\bin\Debug\TestProject.dll
+E:\RiderProjects\experiment-design\TestProject\bin\Debug\TestProject.pdb
+E:\RiderProjects\experiment-design\TestProject\bin\Debug\experiment_design.exe
+E:\RiderProjects\experiment-design\TestProject\bin\Debug\nunit.framework.dll
+E:\RiderProjects\experiment-design\TestProject\bin\Debug\experiment_design.pdb
+E:\RiderProjects\experiment-design\TestProject\bin\Debug\nunit.framework.xml
+E:\RiderProjects\experiment-design\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+E:\RiderProjects\experiment-design\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+E:\RiderProjects\experiment-design\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+E:\RiderProjects\experiment-design\TestProject\obj\Debug\TestProject.dll
+E:\RiderProjects\experiment-design\TestProject\obj\Debug\TestProject.pdb

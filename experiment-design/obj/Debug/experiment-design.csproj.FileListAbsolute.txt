@@ -1,0 +1,6 @@
+E:\RiderProjects\experiment-design\experiment-design\bin\Debug\experiment_design.exe
+E:\RiderProjects\experiment-design\experiment-design\bin\Debug\experiment_design.pdb
+E:\RiderProjects\experiment-design\experiment-design\obj\Debug\experiment-design.csprojAssemblyReference.cache
+E:\RiderProjects\experiment-design\experiment-design\obj\Debug\experiment-design.csproj.CoreCompileInputs.cache
+E:\RiderProjects\experiment-design\experiment-design\obj\Debug\experiment_design.exe
+E:\RiderProjects\experiment-design\experiment-design\obj\Debug\experiment_design.pdb
