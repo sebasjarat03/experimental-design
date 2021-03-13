@@ -21,7 +21,7 @@ namespace TestProject
             sorter = new SortingAlgorithms();
         }
         [SetUp]
-        public void Unsort()
+        public void Reset()
         {
             for (int i = 0; i < n_6.Length; i++)
             {
